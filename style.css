@@ -259,7 +259,7 @@ header.sticky{
     color: var(--main-color);
 }
 
-/*==================== Services section ====================== */
+/*==================== Portfolio section ====================== */
 .portfolio-content{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, auto));
@@ -310,7 +310,7 @@ header.sticky{
     cursor: pointer;
 }
 
-/*==================== Services section ====================== */
+/*==================== Contact section ====================== */
 .contact{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
