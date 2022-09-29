@@ -88,7 +88,7 @@ section {
     height: 100vh;
     width: 100%;
     position: relative;
-    background: url(Assets/pexels-eberhard-grossgasteiger-2098428.jpg);
+    background: url(Assets/Assets/home-background-photo.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
